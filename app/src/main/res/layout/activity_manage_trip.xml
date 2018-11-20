@@ -80,10 +80,11 @@
                     android:textStyle="bold" />
             </LinearLayout>
 
-            <LinearLayout
+            <RadioGroup
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="5dp">
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
 
                 <RadioButton
                     android:layout_width="wrap_content"
@@ -101,7 +102,7 @@
                     android:layout_height="wrap_content"
                     android:text="Mountains" />
 
-            </LinearLayout>
+            </RadioGroup>
 
             <LinearLayout
                 android:layout_width="match_parent"
