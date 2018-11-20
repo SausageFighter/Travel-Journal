@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Travel Journal</string>
+    <string name="manage_trip">Manage Trip</string>
+    <string name="date_format">DD/MM/YYYY</string>
+</resources>
